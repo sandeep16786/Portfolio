@@ -2610,3 +2610,6 @@ article:hover .article-header a{
 #loom-companion-mv3{
 	display:none;
 }
+#loom-companion-mv3{
+	display:none!important;
+}
