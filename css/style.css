@@ -669,7 +669,7 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	line-height: 16px;
 }
 .description span{
-	font-size: 15px;
+	font-size: 12px;
 	font-weight: 400;
 	color:#4c4c4c;
 	text-align:left;
@@ -714,9 +714,12 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 .port-view{
 	outline:none;
 }
+.description  p a{
+	font-size: 12px;
+}
 .description i{
 	margin-top: 8px;
-	margin-left: 150px;
+/* 	margin-left: 150px; */
 	color:#ff724c;
 }
 .grid-item:hover{
