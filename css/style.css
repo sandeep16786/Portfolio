@@ -2606,3 +2606,7 @@ article:hover .article-header a{
     border: 0 none;
     box-shadow: none;
 }
+
+#loom-companion-mv3{
+	display:none;
+}
